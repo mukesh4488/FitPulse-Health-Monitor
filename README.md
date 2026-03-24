@@ -38,6 +38,6 @@ The system calculates an **Anomaly Score** by aggregating the following triggers
    # 💓 FitPulse: Health Anomaly Detection System
 
 ## 🚀 Live Demo
-**[Click here to view the live dashboard](https://YOUR-LIVE-URL-HERE.streamlit.app/)**
+**[Click here to view the live dashboard](https://fitpulse-health-monitor-an-ai-powered-dashboard.streamlit.app/)**
 
 ---
