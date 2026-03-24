@@ -33,3 +33,11 @@ The system calculates an **Anomaly Score** by aggregating the following triggers
    ```bash
    git clone [https://github.com/YOUR_USERNAME/FitPulse.git](https://github.com/YOUR_USERNAME/FitPulse.git)
    cd FitPulse
+
+
+   # 💓 FitPulse: Health Anomaly Detection System
+
+## 🚀 Live Demo
+**[Click here to view the live dashboard](https://YOUR-LIVE-URL-HERE.streamlit.app/)**
+
+---
